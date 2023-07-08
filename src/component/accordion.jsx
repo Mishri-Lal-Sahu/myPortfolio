@@ -33,9 +33,8 @@ export const Experience = [
         projectTitle:'My Portfolio',
         content:'This Portfolio is also created by me. I has been created My Portfoliio using Reactjs and Tailwindcss only. This portfolio is fully responsive.'
         
-    },
-    {
-       projectTitle:'abc',
-        content:'midhsuh'
+    },{
+        projectTitle:'Clone Robu',
+        content:'I am trying to clone robu.in with new design and new functionalities'
     }
 ]
