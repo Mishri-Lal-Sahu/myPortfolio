@@ -34,8 +34,4 @@ export const Experience = [
         content:'This Portfolio is also created by me. I has been created My Portfoliio using Reactjs and Tailwindcss only. This portfolio is fully responsive.'
         
     },
-    {
-       projectTitle:'abc',
-        content:'midhsuh'
-    }
 ]
